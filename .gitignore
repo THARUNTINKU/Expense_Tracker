@@ -1,4 +1,5 @@
 node_modules
 debug.log
 .vscode
-config/config.env
+config\config.env
+config
